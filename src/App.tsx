@@ -2,11 +2,11 @@ import.meta.env = {"BASE_URL": "/", "DEV": true, "MODE": "development", "PROD": 
 * @license
 * SPDX-License-Identifier: Apache-2.0
 */
-import __vite__cjsImport0_react from "/node_modules/.vite/deps/react.js?v=28beee44";
-import { GoogleGenAI } from "/node_modules/.vite/deps/@google_genai.js?v=258b4a72";
-import { Grid, Sliders, Activity, Disc, Sparkles, Network, Move, Folder, Zap, Smartphone, Mic2, Mic, Scissors, LayoutGrid, BarChart, Music, Radio, Github, Play, Square, X, Minus, Maximize2, Volume2, RefreshCw, Bot, Send, Terminal, Wand2, RotateCcw, RotateCw } from "/node_modules/.vite/deps/lucide-react.js?v=b3fc56fa";
+import __vite__cjsImport0_react from "/node_modules/.vite/deps/react.js?v=960caa02";
+import { GoogleGenAI } from "/node_modules/.vite/deps/@google_genai.js?v=fc6d6689";
+import { Grid, Sliders, Activity, Disc, Sparkles, Network, Move, Folder, Zap, Smartphone, Mic2, Mic, Scissors, LayoutGrid, BarChart, Music, Radio, Github, Play, Square, X, Minus, Maximize2, Volume2, RefreshCw, Bot, Send, Terminal, Wand2, RotateCcw, RotateCw } from "/node_modules/.vite/deps/lucide-react.js?v=267a4b92";
 var _jsxFileName = "/app/applet/src/App.tsx";
-import __vite__cjsImport3_react_jsxDevRuntime from "/node_modules/.vite/deps/react_jsx-dev-runtime.js?v=28beee44";
+import __vite__cjsImport3_react_jsxDevRuntime from "/node_modules/.vite/deps/react_jsx-dev-runtime.js?v=960caa02";
 class AudioEngine {
 	constructor() {
 		this.bpm = 124;
