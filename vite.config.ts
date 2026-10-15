@@ -1,7 +1,7 @@
-import tailwindcss from "/node_modules/.vite/deps/@tailwindcss_vite.js?v=7e38a459";
-import react from "/node_modules/.vite/deps/@vitejs_plugin-react.js?v=c5609f9d";
+import tailwindcss from "/node_modules/.vite/deps/@tailwindcss_vite.js?v=c3ce8458";
+import react from "/node_modules/.vite/deps/@vitejs_plugin-react.js?v=d9b76eb7";
 import path from "/@id/__vite-browser-external:path";
-import { defineConfig } from "/node_modules/.vite/deps/vite.js?v=6cd42304";
+import { defineConfig } from "/node_modules/.vite/deps/vite.js?v=b2556b44";
 export default defineConfig(() => {
 	return {
 		plugins: [react(), tailwindcss()],
